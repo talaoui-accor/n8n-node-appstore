@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-appstore",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "n8n community node to manage JWT Token for AppStore Connect",
   "keywords": [
     "n8n-community-node-package"

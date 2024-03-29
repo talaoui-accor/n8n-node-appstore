@@ -53,6 +53,7 @@ export class AppStoreJWTNode implements INodeType {
 		
 				const PAYLOAD = {
 						'iss': issuerId,
+						'iat': NOW,
 						'exp': NOW + tokenExpiresInSeconds,
 						'aud': audience
 				};
